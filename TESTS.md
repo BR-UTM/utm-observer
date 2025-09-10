@@ -28,7 +28,7 @@
     ```
 
 * Isto no entanto ainda não é o suficiente para observar todas as funcionalidades do aplicativo
-* Aparentmente é necessária uma chave válida para o serviço `http://api.dev.br-utm.org` e `brutm` (que estamos usando) e assumimos que parece não ser (ver `.env`):
+* Aparentemente é necessária uma chave válida para o serviço `http://api.dev.br-utm.org` e `brutm` (que estamos usando) e assumimos que parece não ser (ver `.env`):
 
     ```ini
     BRUTM_KEY=brutm
